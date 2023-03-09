@@ -3,11 +3,11 @@ entries:
   crossplane:
   - apiVersion: v1
     appVersion: 1.9.8
-    created: "2023-03-09T22:23:49.288823+01:00"
+    created: "2023-03-09T22:43:15.409969+01:00"
     description: Crossplane is an open source Kubernetes add-on that enables platform
       teams to assemble infrastructure from multiple vendors, and expose higher level
       self-service APIs for application teams to consume.
-    digest: 2c497bf78f551b66a43f6d2f2332dfa2aa2d3eba942703b6633349465446d798
+    digest: 51defb594682e72dcae81b1ae38b07948677fa67938ecaa6d4cb36b46e6a20df
     home: https://crossplane.io
     icon: https://crossplane.io/images/favicon_192x192.png
     keywords:
@@ -38,16 +38,16 @@ entries:
       name: Crossplane Maintainers
     name: crossplane
     urls:
-    - https://adamma-da.github.com/very-simple-helm-repo/crossplane-2.0.4.tgz
+    - https://adamma-da.github.com/very-simple-helm-repo/docs/crossplane-2.0.4.tgz
     version: 2.0.4
   waffle:
   - apiVersion: v1
     appVersion: 1.9.8
-    created: "2023-03-09T22:23:49.289717+01:00"
+    created: "2023-03-09T22:43:15.41087+01:00"
     description: Crossplane is an open source Kubernetes add-on that enables platform
       teams to assemble infrastructure from multiple vendors, and expose higher level
       self-service APIs for application teams to consume.
-    digest: 5512820b2d4b5325b1c2a054fd3b64d39157742b0c2849b30ef3d147f50f485f
+    digest: 97f1d96825830fc577e451e86bd31b84aba983a3e6cbb9776a2505ed0af2359c
     home: https://crossplane.io
     icon: https://crossplane.io/images/favicon_192x192.png
     keywords:
@@ -78,11 +78,11 @@ entries:
       name: Crossplane Maintainers
     name: waffle
     urls:
-    - https://adamma-da.github.com/very-simple-helm-repo/waffle-2.0.5.tgz
+    - https://adamma-da.github.com/very-simple-helm-repo/docs/waffle-2.0.5.tgz
     version: 2.0.5
   - apiVersion: v1
     appVersion: 1.9.8
-    created: "2023-03-09T22:23:49.289266+01:00"
+    created: "2023-03-09T22:43:15.410424+01:00"
     description: Crossplane is an open source Kubernetes add-on that enables platform
       teams to assemble infrastructure from multiple vendors, and expose higher level
       self-service APIs for application teams to consume.
@@ -117,6 +117,6 @@ entries:
       name: Crossplane Maintainers
     name: waffle
     urls:
-    - https://adamma-da.github.com/very-simple-helm-repo/waffle-2.0.4.tgz
+    - https://adamma-da.github.com/very-simple-helm-repo/docs/waffle-2.0.4.tgz
     version: 2.0.4
-generated: "2023-03-09T22:23:49.288257+01:00"
+generated: "2023-03-09T22:43:15.409426+01:00"
