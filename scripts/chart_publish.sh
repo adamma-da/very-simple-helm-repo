@@ -24,5 +24,5 @@ for chart in $CHARTS_DIR/*; do
         
     fi
 done
-helm repo index ../docs --url https://adamma-da.github.com/very-simple-helm-repo/docs
+helm repo index ../docs --url https://adamma-da.github.io/very-simple-helm-repo/docs
 #rm ../.cr-release-packages/*.tgz
